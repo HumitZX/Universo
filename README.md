@@ -5,7 +5,7 @@ This is one of the programs I made in 1992 for my [Spectrum +2A](https://en.wiki
 The pass-key requested to run this program is **PK-204**.
 
 ## Development
-The program was completely implemented in [Sinclair BASIC](https://en.wikipedia.org/wiki/Sinclair_BASIC). As the total information collected for this program exceeded the usual 48K limit, it was splitted in several small parts that where pre-stored in the available ***M:*** unit, and loaded on demand.
+The program was completely implemented in [Sinclair BASIC](https://en.wikipedia.org/wiki/Sinclair_BASIC). As the total information collected for this program exceeded the usual 48K limit, it was split in several small parts that were pre-stored in the available ***M:*** unit, and loaded on demand.
 
 ### Intermediate programs
 - UNIVERSO, with 247 bytes, is the main loader. It loads the screen, and the secondary loader (*CARGADOR*).
